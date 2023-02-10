@@ -1,0 +1,11 @@
+C:\CSharp\Lab_text_1110\Lab_text_1110\bin\Debug\Lab_text_1110.exe.config
+C:\CSharp\Lab_text_1110\Lab_text_1110\bin\Debug\Lab_text_1110.exe
+C:\CSharp\Lab_text_1110\Lab_text_1110\bin\Debug\Lab_text_1110.pdb
+C:\CSharp\Lab_text_1110\Lab_text_1110\obj\Debug\Lab_text_1110.csproj.AssemblyReference.cache
+C:\CSharp\Lab_text_1110\Lab_text_1110\obj\Debug\Lab_text_1110.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Lab_text_1110\Lab_text_1110\obj\Debug\Lab_text_1110.Form1.resources
+C:\CSharp\Lab_text_1110\Lab_text_1110\obj\Debug\Lab_text_1110.Properties.Resources.resources
+C:\CSharp\Lab_text_1110\Lab_text_1110\obj\Debug\Lab_text_1110.csproj.GenerateResource.cache
+C:\CSharp\Lab_text_1110\Lab_text_1110\obj\Debug\Lab_text_1110.csproj.CoreCompileInputs.cache
+C:\CSharp\Lab_text_1110\Lab_text_1110\obj\Debug\Lab_text_1110.exe
+C:\CSharp\Lab_text_1110\Lab_text_1110\obj\Debug\Lab_text_1110.pdb

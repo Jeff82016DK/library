@@ -1,0 +1,98 @@
+body {
+    background-image: url(./poto/back/back-2.jpg);
+    background-repeat: no-repeat;
+    background-size: 1900px 1100px;
+    /* opacity: 0.5; */
+    position: absolute;
+    /* background-position: center; */
+    left: 700px;
+    font-family: '標楷體';
+}
+
+#poto {
+    width: 300px;
+    height: 120px;
+    position: absolute;
+    left: -450px;
+    /* border: 1px red solid; */
+    
+    /* display: block; */
+    /* float: left; */
+
+}
+
+#big-tag {
+    background-image: url(./poto/back/tag-3.png);
+    background-size: 500px 100px;
+    background-repeat: no-repeat;
+    background-position: center;
+    /* top: -50px; */
+    /* width:1000px ; */
+
+
+}
+
+h1 {
+    text-align: center;
+    width: 600px;
+    height: 100px;
+    line-height: 100px;
+    /* border: 1px red solid; */
+}
+
+i {
+    font-size: 16px;
+    color: red;
+    float: right;
+}
+
+hr {
+    height: 3px;
+    width: 600px;
+    background-color: rgb(116, 116, 215);
+}
+
+form {
+
+
+    /* position: relative; */
+    border-collapse: collapse;
+    width: 600px;
+    height: 300px;
+    margin: center;
+    align-items: center;
+    /* padding: 0px 20px 0px 500px; */
+
+    /* text-align: center; */
+    justify-content: center;
+}
+
+.border {
+    font-size: 28px;
+    position: relative;
+    align-items: center;
+    /* border: 2px red solid; */
+}
+
+input {
+    font-size: 24px;
+}
+
+
+#country {
+    font-size: 20px;
+}
+#con{
+    font-size: 20px;
+    display: flex;
+    margin: auto;
+}
+/* .box{
+    width: 1000px;
+    height: 800px;
+    background-image: url(./poto/back/back-1.jpg);
+    background-color: blue;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+} */

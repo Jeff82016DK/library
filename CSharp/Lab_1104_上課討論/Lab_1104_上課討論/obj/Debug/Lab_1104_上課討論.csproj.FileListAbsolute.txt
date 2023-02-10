@@ -1,0 +1,8 @@
+C:\CSharp\Lab_1104_上課討論\Lab_1104_上課討論\bin\Debug\Lab_1104_上課討論.exe.config
+C:\CSharp\Lab_1104_上課討論\Lab_1104_上課討論\bin\Debug\Lab_1104_上課討論.exe
+C:\CSharp\Lab_1104_上課討論\Lab_1104_上課討論\bin\Debug\Lab_1104_上課討論.pdb
+C:\CSharp\Lab_1104_上課討論\Lab_1104_上課討論\obj\Debug\Lab_1104_上課討論.csproj.AssemblyReference.cache
+C:\CSharp\Lab_1104_上課討論\Lab_1104_上課討論\obj\Debug\Lab_1104_上課討論.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Lab_1104_上課討論\Lab_1104_上課討論\obj\Debug\Lab_1104_上課討論.csproj.CoreCompileInputs.cache
+C:\CSharp\Lab_1104_上課討論\Lab_1104_上課討論\obj\Debug\Lab_1104_上課討論.exe
+C:\CSharp\Lab_1104_上課討論\Lab_1104_上課討論\obj\Debug\Lab_1104_上課討論.pdb

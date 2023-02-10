@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="jquery.js"></script>
+    
+
+    <title>Document</title>
+    <script>
+        $(function () {
+            $(".tag").on("click", function () {
+                alert("ok");
+                // var i = #(this).index();。
+            })
+        })
+    </script>
+</head>
+
+<body>
+
+
+    <button class="tag">123</button>
+    <button class="tag">456</button>
+    <button class="tag">789</button>
+    <script>
+      var rows = prompt('請輸入行數：');
+			var cols = prompt('請輸入列數');
+			var str='';
+			for (var i = 1; i <= rows; i++) {
+				for (var j = 1; j <= cols; j++) {
+				str+='*';
+				}
+				str+='\n';
+			}
+			console.log(str);
+    </script>
+
+
+
+</body>
+
+</html>

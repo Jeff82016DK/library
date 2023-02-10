@@ -1,0 +1,11 @@
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\bin\Debug\Lab_ADO_1115_v1.exe.config
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\bin\Debug\Lab_ADO_1115_v1.exe
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\bin\Debug\Lab_ADO_1115_v1.pdb
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\obj\Debug\Lab_ADO_1115_v1.csproj.AssemblyReference.cache
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\obj\Debug\Lab_ADO_1115_v1.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\obj\Debug\Lab_ADO_1115_v1.Form1.resources
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\obj\Debug\Lab_ADO_1115_v1.Properties.Resources.resources
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\obj\Debug\Lab_ADO_1115_v1.csproj.GenerateResource.cache
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\obj\Debug\Lab_ADO_1115_v1.csproj.CoreCompileInputs.cache
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\obj\Debug\Lab_ADO_1115_v1.exe
+C:\CSharp\Lab_ADO_1115_v1\Lab_ADO_1115_v1\obj\Debug\Lab_ADO_1115_v1.pdb

@@ -1,0 +1,11 @@
+C:\CSharp\Mytest\Mytest\bin\Debug\Mytest.exe.config
+C:\CSharp\Mytest\Mytest\bin\Debug\Mytest.exe
+C:\CSharp\Mytest\Mytest\bin\Debug\Mytest.pdb
+C:\CSharp\Mytest\Mytest\obj\Debug\Mytest.csproj.AssemblyReference.cache
+C:\CSharp\Mytest\Mytest\obj\Debug\Mytest.csproj.SuggestedBindingRedirects.cache
+C:\CSharp\Mytest\Mytest\obj\Debug\Mytest.Form1.resources
+C:\CSharp\Mytest\Mytest\obj\Debug\Mytest.Properties.Resources.resources
+C:\CSharp\Mytest\Mytest\obj\Debug\Mytest.csproj.GenerateResource.cache
+C:\CSharp\Mytest\Mytest\obj\Debug\Mytest.csproj.CoreCompileInputs.cache
+C:\CSharp\Mytest\Mytest\obj\Debug\Mytest.exe
+C:\CSharp\Mytest\Mytest\obj\Debug\Mytest.pdb

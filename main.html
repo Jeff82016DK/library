@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="jquery.js"></script>
+    <script src="jquery.toast.js"></script>
+    <title>Document</title>
+
+    <link rel="stylesheet" href="./main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+</head>
+
+<body>
+    <!-- 頁面頭 -->
+    <div class="head">
+        <header>
+            <img id="poto" ; src="./icon/icon_1.png" onclick="location.href='main.html'">
+            <h1>書適蟲</h1>
+            <a class="shopping lo" href=""><i class="bi bi-cart">購物車</i></a>
+            <button id="login" class="lo" onclick="location.href='login.html' ">登入</button>
+            <button id="login-2" class="lo" onclick="location.href='register.html' ">會員註冊</button>
+
+        </header>
+    </div>
+    <!-- 左邊標籤列 -->
+    <div class="left_tag" id="left">
+        <!-- <p>搜尋標籤
+            <input type="text"><button>search</button>
+        </p> -->
+        <button class="tag " data-book="hot">折價商品</button>
+        <button class="tag " data-book="language">語言</button>
+        <button class="tag " data-book="love">戀愛</button>
+        <button class="tag " data-book="literatrue">文學</button>
+        <button class="tag " data-book="travel">旅遊</button>
+        <button class="tag " data-book="food">飲食</button>
+        <button class="tag " data-book="finance">財經</button>
+
+
+    </div>
+    <!-- 右邊顯示列 -->
+    <div id="show" class="">
+        <!-- <div class="them"><img src="" alt=""><p></p></div> -->
+        <div id="poto2">
+            <form id="form" class="form"></form>
+        </div>
+        <div id="product">
+            <form id="product_form" class="product_form" action="shoppingCar.html" style="display: none;"></form>
+        </div>
+
+    </div>
+
+    <script src="./main.js">
+
+        
+    </script>
+</body>
+
+</html>

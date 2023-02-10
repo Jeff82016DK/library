@@ -1,0 +1,341 @@
+* {
+    padding: 0px;
+    margin: 0;
+}
+
+body {
+    background-image: url(./poto/back/back-3.png);
+    background-size: cover;
+    background-repeat: repeat;
+    font-family: "標楷體";
+
+}
+
+.head header {
+    background-image: linear-gradient(rgb(152, 225, 191), rgb(75, 86, 45));
+    align-items: center;
+    /* border: 2px red solid; */
+    height: 100px;
+    width: 1899px;
+    /* left: 20px; */
+    position: relative;
+    display: flex;
+    color: rgb(243, 238, 238);
+
+
+}
+
+#poto {
+    width: 300px;
+    height: 200px;
+
+}
+
+header h1 {
+    font-size: 50px;
+    position: absolute;
+    left: 30%;
+}
+
+#login {
+    font-size: 30px;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    right: 20%;
+    border: 0;
+    /* border-radius: 30px; */
+    background: transparent;
+    /* border-width: 0px; */
+
+}
+
+#login-2 {
+    font-size: 30px;
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    right: 5%;
+    border: 0;
+    /* border-radius: 30px; */
+    background: transparent;
+    /* border-width: 0px; */
+
+}
+
+.lo:hover {
+
+    transform: scale(1, 1);
+    transition: all 0.5s ease-out;
+    transform: scale(1.2, 1.2);
+    /* color: red; */
+    /* background-color: antiquewhite; */
+    cursor: pointer;
+
+}
+
+.shopping {
+    font-size: 34px;
+    position: absolute;
+    padding: 10px;
+    right: 30%;
+}
+
+a:link {
+    color: red
+}
+
+a:visited {
+    color: black
+}
+
+a:hover {
+    color: yellow;
+}
+
+a:active {
+    color: blue;
+}
+
+a {
+    text-decoration: none;
+}
+
+button:hover {
+    color: yellow;
+}
+
+/* left tag */
+.box {
+    /* border: 1px red solid; */
+    padding-left: 0px;
+    /* left: -50px; */
+}
+
+label {
+    font-size: 24px;
+}
+
+input {
+    width: 20px;
+    height: 20px;
+}
+
+.box button {
+    font-size: 20px;
+    width: 70px;
+    height: 35px;
+}
+
+.left_tag {
+    width: 300px;
+    font-size: 20px;
+    position: absolute;
+    left: 0px;
+
+}
+
+.left_tag .tag {
+    background: transparent;
+    border-width: 0px;
+    background-image: url(./poto/back/tag-1.png);
+    background-position: -65px;
+    background-size: 140%;
+    align-items: center;
+    width: 330px;
+    height: 75px;
+    top: 100px;
+    font-size: 30px;
+    color: rgb(90, 119, 45);
+    margin-top: 10px;
+    cursor: pointer;
+    font-family: '標楷體';
+    /* box-shadow: 5px 5px 5px #888888; */
+    /* padding: 10px 10px 10px 10px; */
+
+}
+
+
+.tag:hover {
+
+    transform: scale(1, 1);
+    transition: all 0.5s ease-out;
+    transform: scale(1.2, 1.2);
+    color: red;
+
+}
+
+#form img:hover {
+
+    transform: scale(1, 1);
+    transition: all 0.5s ease-out;
+    transform: scale(1.1, 1.1);
+
+
+}
+
+
+p>input {
+    width: 200px;
+    height: 30px;
+    border-radius: 30px;
+    font-size: 15px;
+}
+
+p>button {
+    width: 80px;
+    height: 30px;
+}
+
+
+/* right */
+#show {
+    /* border: 3px red solid; */
+    /* background-color: aqua; */
+    width: 1480px;
+    height: auto;
+    position: absolute;
+    left: 400px;
+    font-family: '標楷體';
+}
+
+#poto2 img {
+    /* border: 2px red solid; */
+    width: 75%;
+    padding: 10px;
+    /* border: 2px red solid; */
+    position: relative;
+}
+
+#form div {
+    width: 480px;
+
+}
+
+#show p {
+    width: 80%;
+    /* border: 1px blue solid; */
+    color: black;
+    text-align: center;
+    font-size: 24px;
+    position: relative;
+}
+
+#show i {
+    color: red;
+}
+
+#show div {
+    float: left;
+}
+
+
+/* --------產品頁------- */
+
+#product img {
+    /* border: 2px red solid; */
+    width: 60%;
+    /* padding: 10px; */
+    position: relative;
+    float: left;
+
+}
+
+#product_form {
+    /* border: 2px red solid; */
+    width: 1400px;
+    font-size: 35px;
+    /* float: right; */
+    text-align: left;
+}
+
+#product_form li {
+    /* border: 2px blue solid; */
+    list-style-type: none;
+    position: relative;
+    top: -600px;
+    left: 700px;
+    line-height: 60px;
+    /* float: right; */
+}
+
+#product_form h3 {
+    position: relative;
+    width: 500px;
+    top: -700px;
+    left: 700px;
+    padding: 10px;
+    /* border: 2px purple solid; */
+    text-align: center;
+    /* float: left; */
+
+}
+
+.bbt button {
+    /* border: 1px red solid; */
+    position: relative;
+    top: -150px;
+    left: 380px;
+    width: 150px;
+    height: 50px;
+    font-size: 24px;
+    border-radius: 10px;
+
+}
+
+#tt {
+    position: absolute;
+    top: 900px;
+    width: 700px;
+    height: 150px;
+    left: 400px;
+    font-size: 20px;
+}
+
+#boo {
+    position: absolute;
+    top: 1080px;
+    width: 70px;
+    height: 30px;
+    left: 1000px;
+    font-size: 20px;
+}
+
+#pp {
+    position: absolute;
+    top: 850px;
+    width: 200px;
+    left: -290px;
+    font-size: 50px;
+}
+
+#sp {
+    position: absolute;
+    top: 850px;
+    width: 200px;
+    font-size: 25px;
+}
+
+
+/* #product_form div {
+    border: 2px red solid;
+} */
+
+
+/* .hot{
+    position: relative;
+} */
+
+/* .hot span {
+    width: 100px;
+    height: 30px;
+    font-size: 30px;
+    position: absolute;
+    top: 50px;
+    right: 50px;
+    transform: rotate(45deg);
+    background-color: yellow;
+    overflow: hidden;
+    text-align: center;
+    display: block;
+} */

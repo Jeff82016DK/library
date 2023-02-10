@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="jquery.js"></script>
+    <title>會員註冊</title>
+
+
+    <link rel="stylesheet" href="./register.css">
+</head>
+
+<body>
+    <div>
+        <img id="poto" ; src="./icon/icon_1.png" onclick="location.href='./main.html'">
+    </div>
+    <div id="big-tag">
+        <h1>會員註冊</h1>
+    </div>
+
+    <hr>
+    <div class="box">
+
+    </div>
+    <div class="back">
+        <form id="lis" name="lis" action="main.html">
+            <fieldset class="border">
+                <p>帳號註冊<i>*必填表格</i></p>
+                <label for="username">*姓名:</label>
+                <input id="username" type="text" maxlength="30" oninput = "value=value.replace(/[^u4e00-u9fa5w]/g,'')">
+                <br><br>
+                <label for="gender" name="gender">*性別:</label>
+                <input type="radio" name="gender" style="zoom:1.5;">男
+                <input type="radio" name="gender" style="zoom:1.5;">女
+                <br><br>
+                <label for="phone">*手機電話:</label>
+                <input type="tel" id="phone" maxlength="10" oninput = "value=value.replace(/[^\d]/g,'')">
+                <br><br>
+                <label for="birthday">*生日:</label>
+                <input type="text" placeholder="例:2000/01/01" id="birthday">
+                <br><br>
+                <label for="iden">*身分證:</label>
+                <input type="text" id="iden">
+                <br><br>
+                <label for="account">*申請帳號:</label>
+                <input type="text" id="account">
+                <br><br>
+                <label for="password">*申請密碼:</label>
+                <input type="text" id="password">
+                <br><br>
+                <label for="password_2">*確認密碼:</label>
+                <input type="password" id="password_2">
+                <br><br>
+                <label for="mail">*電子信箱:</label>
+                <input type="text" id="mail">
+                <br><br>
+                <label for="country">國家</label>
+                <select name="country" id="country">
+                    <option value="country" style="background-color: rgb(195, 192, 192);">請選擇</option>
+                    <option value="country">America</option>
+                    <option value="country">China</option>
+                    <option value="country">Japan</option>
+                    <option value="country">Taiwan</option>
+                </select>
+                <br><br>
+                <label for="add">通訊地址:</label>
+                <input type="text" id="add">
+                <br><br>
+                <input type="checkbox" name="check" style="zoom:1.5;">是否訂閱活動資訊
+                <br><br>
+
+                <button id="con" type="submit" onclick="return false">確認送出</button>
+
+
+                <script>
+
+
+                    $(document).ready(function () {
+
+                        $("#con").on("click", function () {
+                            if ($("#username").val() == "") {
+                                alert("尚未填寫姓名");
+                            } else if ($("#phone").val() == "") {
+                                alert("尚未填寫手機電話");
+                            } else if ($("#birthday").val() == "") {
+                                alert("尚未填寫生日");
+                            } else if ($("#iden").val() == "") {
+                                alert("尚未填寫身分證");
+                            } else if ($("#account").val() == "") {
+                                alert("尚未填寫申請帳號");
+                            } else if ($("#password").val() == "") {
+                                alert("尚未填寫申請密碼");
+                            } else if ($("#password_2").val() == "") {
+                                alert("尚未填寫確認密碼");
+                            } else if ($("#mail").val() == "") {
+                                alert("尚未填寫信箱");
+                            } else if ($("#password").val() != $("#password_2").val()) {
+                                alert("密碼錯誤，請重新確認密碼");
+                            } else {
+                                alert("申請帳號完畢，請至首頁登入");
+                                document.lis.submit();
+                            }
+                        })
+
+
+                        // -------------------------------------------
+
+                       
+
+                    })
+
+                </script>
+
+
+    </div>
+
+    </fieldset>
+    </form>
+
+
+
+
+</body>
+
+</html>
