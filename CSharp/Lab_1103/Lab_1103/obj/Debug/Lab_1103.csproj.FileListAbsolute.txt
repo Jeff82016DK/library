@@ -1,8 +1,0 @@
-C:\CSharp\Lab_1103\Lab_1103\bin\Debug\Lab_1103.exe.config
-C:\CSharp\Lab_1103\Lab_1103\bin\Debug\Lab_1103.exe
-C:\CSharp\Lab_1103\Lab_1103\bin\Debug\Lab_1103.pdb
-C:\CSharp\Lab_1103\Lab_1103\obj\Debug\Lab_1103.csproj.AssemblyReference.cache
-C:\CSharp\Lab_1103\Lab_1103\obj\Debug\Lab_1103.csproj.SuggestedBindingRedirects.cache
-C:\CSharp\Lab_1103\Lab_1103\obj\Debug\Lab_1103.csproj.CoreCompileInputs.cache
-C:\CSharp\Lab_1103\Lab_1103\obj\Debug\Lab_1103.exe
-C:\CSharp\Lab_1103\Lab_1103\obj\Debug\Lab_1103.pdb

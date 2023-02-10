@@ -1,8 +1,0 @@
-C:\CSharp\Lab1028_1\Lab1028_1\bin\Debug\Lab1028_1.exe.config
-C:\CSharp\Lab1028_1\Lab1028_1\bin\Debug\Lab1028_1.exe
-C:\CSharp\Lab1028_1\Lab1028_1\bin\Debug\Lab1028_1.pdb
-C:\CSharp\Lab1028_1\Lab1028_1\obj\Debug\Lab1028_1.csproj.AssemblyReference.cache
-C:\CSharp\Lab1028_1\Lab1028_1\obj\Debug\Lab1028_1.csproj.SuggestedBindingRedirects.cache
-C:\CSharp\Lab1028_1\Lab1028_1\obj\Debug\Lab1028_1.csproj.CoreCompileInputs.cache
-C:\CSharp\Lab1028_1\Lab1028_1\obj\Debug\Lab1028_1.exe
-C:\CSharp\Lab1028_1\Lab1028_1\obj\Debug\Lab1028_1.pdb
